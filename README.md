@@ -1,5 +1,5 @@
 # PlatinumChallenge
 Anggota Kelompok:
-DSC221100021 - Meta Mahyarani
-DSC221100023 - Nurcahyo Yunanto
-DSC221100025 - Rahadian Surya
+1. DSC221100021 - Meta Mahyarani
+2. DSC221100023 - Nurcahyo Yunanto
+3. DSC221100025 - Rahadian Surya
